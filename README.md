@@ -25,3 +25,5 @@ npm test -- --coverage
 `src/utils/logger.js` and `src/server.js` are intentionally left without unit
 tests (see the comment at the top of each file) -- a console wrapper and a
 process bootstrap with no branching logic worth covering.
+
+# Test edit
